@@ -1,11 +1,11 @@
 # usaco26_feb_bronze
 
 
-## 기타 코드
+## Other code
 
 - [p1.cpp](p1.cpp)
 - [p2.cpp](p2.cpp)
 - [p3.cpp](p3.cpp)
 - [p3_stress.cpp](p3_stress.cpp)
 
-제공된 아카이브에서 해당 대회 문제를 찾지 못해 문제 본문을 추가하지 않았다.
+Problem statements for this contest were not found in the local archive, so only the solutions are listed.

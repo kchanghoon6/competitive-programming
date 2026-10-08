@@ -1,6 +1,6 @@
 # 12th Week(floyd, bell)
 
-| 문제 | 풀이 |
+| Problem | Solution |
 | --- | --- |
 | [1613. 역사](1613.md) | [1613.cpp](1613.cpp) |
 | [1766. 문제집](1766.md) | [1766.cpp](1766.cpp) |
@@ -21,6 +21,6 @@
 | [31064. Cowntact Tracing 2](31064.md) | [31064.cpp](31064.cpp) |
 | [33062. Roundabout Rounding](33062.md) | [33062.cpp](33062.cpp) |
 
-## 기타 코드
+## Other code
 
 - [test.cpp](test.cpp)

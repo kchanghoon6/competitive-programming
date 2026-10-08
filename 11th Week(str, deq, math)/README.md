@@ -1,6 +1,6 @@
 # 11th Week(str, deq, math)
 
-| 문제 | 풀이 |
+| Problem | Solution |
 | --- | --- |
 | [2487. 섞기 수열](2487.md) | [2487.cpp](2487.cpp) |
 | [2609. 최대공약수와 최소공배수](2609.md) | [2609.cpp](2609.cpp) |
@@ -28,6 +28,6 @@
 | [31065. Farmer John Actually Farms](31065.md) | [31065.cpp](31065.cpp) |
 | [31560. Balancing Bacteria](31560.md) | [31560.cpp](31560.cpp) |
 
-## 기타 코드
+## Other code
 
 - [sieve.cpp](sieve.cpp)

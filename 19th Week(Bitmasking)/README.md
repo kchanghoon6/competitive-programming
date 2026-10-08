@@ -1,10 +1,10 @@
 # 19th Week(Bitmasking)
 
-| 문제 | 풀이 |
+| Problem | Solution |
 | --- | --- |
 | [1562. 계단 수](1562.md) | [1562.cpp](1562.cpp) |
-| [2098. 본문 미수록](2098.md) | [2098.cpp](2098.cpp) |
-| [2196. 본문 미수록](2196.md) | [2196.cpp](2196.cpp) |
+| [2098. (statement not archived)](2098.md) | [2098.cpp](2098.cpp) |
+| [2196. (statement not archived)](2196.md) | [2196.cpp](2196.cpp) |
 | [5831. Blink](5831.md) | [5831.cpp](5831.cpp) |
 | [6062. Mixed Up Cows](6062.md) | [6062.cpp](6062.cpp) |
 | [9569. No Change](9569.md) | [9569.cpp](9569.cpp) |

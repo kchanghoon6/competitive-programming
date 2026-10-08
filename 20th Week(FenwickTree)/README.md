@@ -1,6 +1,6 @@
 # 20th Week(FenwickTree)
 
-| 문제 | 풀이 |
+| Problem | Solution |
 | --- | --- |
 | [1280. 나무 심기](1280.md) | [1280.cpp](1280.cpp) |
 | [2042. 구간 합 구하기](2042.md) | [2042.cpp](2042.cpp) |

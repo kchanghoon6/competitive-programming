@@ -1,6 +1,6 @@
 # P14-articulation
 
-| 문제 | 풀이 |
+| Problem | Solution |
 | --- | --- |
 | [10891. Cactus? Not cactus?](10891.md) | [10891.cpp](10891.cpp) |
 | [11266. 단절점](11266.md) | [AP-11266.cpp](AP-11266.cpp) |

@@ -1,6 +1,6 @@
 # usaco22_feb
 
-| 문제 | 풀이 |
+| Problem | Solution |
 | --- | --- |
 | [24620. Sleeping in Class](24620.md) | [p1.cpp](p1.cpp) |
 | [24621. Photoshoot 2](24621.md) | [p2.cpp](p2.cpp) |

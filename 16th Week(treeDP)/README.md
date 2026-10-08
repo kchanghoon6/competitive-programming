@@ -1,10 +1,10 @@
 # 16th Week(treeDP)
 
-| 문제 | 풀이 |
+| Problem | Solution |
 | --- | --- |
 | [1693. 트리 색칠하기](1693.md) | [1693.cpp](1693.cpp) |
 | [1949. 우수 마을](1949.md) | [1949.cpp](1949.cpp) |
-| [2213. 본문 미수록](2213.md) | [2213.cpp](2213.cpp) |
+| [2213. (statement not archived)](2213.md) | [2213.cpp](2213.cpp) |
 | [2533. 사회망 서비스(SNS)](2533.md) | [2533.cpp](2533.cpp) |
 | [5898. Nearby Cows](5898.md) | [5898.cpp](5898.cpp) |
 | [5934. Visiting Cows](5934.md) | [5934.cpp](5934.cpp) |

@@ -1,6 +1,6 @@
 # 10th Week(dijkstra)
 
-| 문제 | 풀이 |
+| Problem | Solution |
 | --- | --- |
 | [1238. 파티](1238.md) | [1238.cpp](1238.cpp) |
 | [2003. 수들의 합 2](2003.md) | [2003.cpp](2003.cpp) |
@@ -26,7 +26,7 @@
 | [27847. Cow-libi](27847.md) | [27847.cpp](27847.cpp) |
 | [31650. Maximizing Productivity](31650.md) | [31650.cpp](31650.cpp) |
 
-## 기타 코드
+## Other code
 
 - [deque_circle.cpp](deque_circle.cpp)
 - [deque_ex.cpp](deque_ex.cpp)

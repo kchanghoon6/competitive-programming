@@ -1,8 +1,8 @@
 # P12-scc
 
-| 문제 | 풀이 |
+| Problem | Solution |
 | --- | --- |
-| [2150. 본문 미수록](2150.md) | [2150-kosaraju.cpp](2150-kosaraju.cpp), [2150-tarjan.cpp](2150-tarjan.cpp) |
+| [2150. (statement not archived)](2150.md) | [2150-kosaraju.cpp](2150-kosaraju.cpp), [2150-tarjan.cpp](2150-tarjan.cpp) |
 | [4013. ATM](4013.md) | [4013.cpp](4013.cpp) |
 | [4196. 도미노](4196.md) | [4196.cpp](4196.cpp) |
 | [11280. 2-SAT - 3](11280.md) | [11280.cpp](11280.cpp) |

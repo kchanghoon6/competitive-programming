@@ -1,6 +1,6 @@
 # P6
 
-| 문제 | 풀이 |
+| Problem | Solution |
 | --- | --- |
 | [31061. Cycle Correspondence](31061.md) | [31061.cpp](31061.cpp) |
 | [31063. Candy Cane Feast](31063.md) | [31063.cpp](31063.cpp) |

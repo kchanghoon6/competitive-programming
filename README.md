@@ -1,12 +1,16 @@
-# 알고리즘 풀이
+# Competitive Programming Solutions (C++)
 
-백준과 USACO 문제 풀이를 공부한 순서와 대회별로 정리했다.
+My C++ solutions to online judge (Baekjoon Online Judge) and USACO problems, organized in the order I studied them and by contest.
 
-320개 문제를 각 풀이 폴더의 문서에 연결했다. 문제 본문은 제공된 로컬 아카이브에서 가져왔으며, 본문이 수록된 문제의 원문·출처·예제를 함께 보관한다. 같은 문제의 여러 풀이가 있으면 함께 연결했다. 문제의 권리는 원저작자에게 있다.
+- `1st Week` to `20th Week`: weekly study sets that move from brute force, recursion, DP and BFS/DFS through two pointers and graphs (Dijkstra, Floyd-Warshall, Bellman-Ford, topological sort, LCA, MST), union-find, tree DP, segment trees, constructive problems, bitmasking and Fenwick trees.
+- `P1` to `P14`: additional problem sets, including tries, strongly connected components / 2-SAT, CCW geometry and articulation points.
+- `usaco*`: USACO contest problems.
 
-## 폴더
+320 problems are linked to a document in their solution folder. Each document keeps the original statement, source and samples from my local archive when available, and links every solution I wrote for that problem. Problem statements belong to their original authors.
 
-| 폴더 | 문제 문서 수 |
+## Folders
+
+| Folder | Problem documents |
 | --- | --- |
 | [1st Week](1st%20Week/README.md) | 10 |
 | [2nd Week](2nd%20Week/README.md) | 7 |
@@ -55,28 +59,28 @@
 | [usaco26_feb_silv](usaco26_feb_silv/README.md) | 0 |
 | [usaco26_jan_bronze](usaco26_jan_bronze/README.md) | 0 |
 
-## 루트 풀이
+## Solutions in the root folder
 
-| 문제 | 풀이 |
+| Problem | Solution |
 | --- | --- |
 | [31555. Cowmpetency](31555.md) | [p1-v2.cpp](p1-v2.cpp), [p1.cpp](p1.cpp) |
 | [33729. Bessie's Function](33729.md) | [idem.cpp](idem.cpp) |
 
-`p2.cpp`은 문제 번호를 확인하지 못해 본문을 연결하지 않았다.
+`p2.cpp` is not linked to a statement because its problem number could not be identified.
 
-## 참고
+## Notes
 
-- 초반 풀이의 2칸, 이후 풀이의 3칸 들여쓰기 등 작성 시기별 스타일을 유지했다.
-- 실행 파일과 디버그 산출물은 포함하지 않는다.
-- 일부 풀이에는 미완성 코드나 다른 접근을 시도한 코드가 포함되어 있다.
-- 2026년 USACO 폴더의 문제는 제공된 아카이브에서 찾지 못했다.
-- `8th Week/8-4_5557.cpp`과 `8th Week/8-7_2178.cpp`은 빈 파일이다.
+- Code style is kept as originally written at each stage (for example, 2-space indentation in early solutions and 3-space indentation later).
+- Compiled binaries and debug outputs are not included.
+- Some files are unfinished attempts or alternative approaches to the same problem.
+- Statements for the 2026 USACO folders were not found in my local archive.
+- `8th Week/8-4_5557.cpp` and `8th Week/8-7_2178.cpp` are empty files.
 
-## 아카이브 본문 누락
+## Missing statements
 
-아래 문제는 아카이브 파일에 사이트 안내 페이지만 저장되어 있어 본문을 복원하지 못했다.
+For the problems below, the archive only contained a site notice page, so the statement could not be restored.
 
-| 폴더 | 문제 번호 |
+| Folder | Problem number |
 | --- | --- |
 | 13th Week(topo, hash, tree) | 2252 |
 | 16th Week(treeDP) | 2213 |
@@ -89,20 +93,20 @@
 | 9th Week | 2239 |
 | P12-scc | 2150 |
 
-## 아카이브 그림 누락
+## Missing figures
 
-17143, 26146, 26157번의 일부 그림은 아카이브에 없으며 원본 주소에서도 복구하지 못했다. 해당 위치에는 원문 이미지 링크가 남아 있다.
+Some figures for problems 17143, 26146 and 26157 were missing from the archive and could not be recovered from the original URLs. The original image links are left in place.
 
-## 미완성 풀이
+## Unfinished solutions
 
-아래 코드는 기존 상태에서 문법 오류가 있거나 비어 있다. 공부한 기록을 유지하기 위해 남겨두었다.
+The files below have syntax errors or are empty. They are kept as a record of my study.
 
-| 파일 | 상태 |
+| File | Status |
 | --- | --- |
-| [11th Week(str, deq, math)/10658.cpp](11th%20Week%28str%2C%20deq%2C%20math%29/10658.cpp) | 이진 탐색 작성 중 |
-| [11th Week(str, deq, math)/31560.cpp](11th%20Week%28str%2C%20deq%2C%20math%29/31560.cpp) | 선언되지 않은 변수 사용 |
-| [14th Week(LCA, MST1)/24618.cpp](14th%20Week%28LCA%2C%20MST1%29/24618.cpp) | 벡터를 pair처럼 접근 |
-| [14th Week(LCA, MST1)/24978.cpp](14th%20Week%28LCA%2C%20MST1%29/24978.cpp) | 벡터와 정수 비교 |
-| [8th Week/8-4_5557.cpp](8th%20Week/8-4_5557.cpp) | 빈 파일 |
-| [8th Week/8-7_2178.cpp](8th%20Week/8-7_2178.cpp) | 빈 파일 |
-| [P7/2618.cpp](P7/2618.cpp) | pll 타입 정의 누락 |
+| [11th Week(str, deq, math)/10658.cpp](11th%20Week%28str%2C%20deq%2C%20math%29/10658.cpp) | Binary search in progress |
+| [11th Week(str, deq, math)/31560.cpp](11th%20Week%28str%2C%20deq%2C%20math%29/31560.cpp) | Uses an undeclared variable |
+| [14th Week(LCA, MST1)/24618.cpp](14th%20Week%28LCA%2C%20MST1%29/24618.cpp) | Accesses a vector as if it were a pair |
+| [14th Week(LCA, MST1)/24978.cpp](14th%20Week%28LCA%2C%20MST1%29/24978.cpp) | Compares a vector with an integer |
+| [8th Week/8-4_5557.cpp](8th%20Week/8-4_5557.cpp) | Empty file |
+| [8th Week/8-7_2178.cpp](8th%20Week/8-7_2178.cpp) | Empty file |
+| [P7/2618.cpp](P7/2618.cpp) | Missing `pll` type definition |
